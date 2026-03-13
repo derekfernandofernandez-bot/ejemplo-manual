@@ -1,0 +1,46 @@
+.Hobbies{
+    color: #9858F5;
+    font-size:2em;
+    font-family: fantasy;
+}
+.Habilidades{
+    color:#4773F5;
+    font-size:3em;
+    font-family: monospace;
+    
+}
+.FortalezasyDebilidades{
+    color:#56B0F5;
+    font-size:4em;
+    font-family: sans-serif;   
+}
+.Historiaacademica{
+    color:#62F56C;
+    font-size:3em;
+    font-family: serif;
+}
+table{
+    border-style: dotted;
+    border-width: 7px;
+    border-color: #F04330;
+}
+td{
+    border-style:double;
+    border-width:3px;
+    border-color:#F04330;
+}
+p1{
+    border-style: dashed;
+    border-width: 7px;
+    border-color:#85FA50;
+ }
+p2{
+    border-style: double;
+    border-width: 7px;
+    border-color: #F71152;
+}
+p3{
+    border-style: inset;
+    border-width: 7px;
+    border-color: #99FA50;
+}
